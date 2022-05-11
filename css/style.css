@@ -1,0 +1,85 @@
+.one{
+    background: url(../img/bg.jpg);
+    height: 1000px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+  
+}
+.two{
+    background-color: blueviolet;
+    height: 550px;
+}
+.text{
+    font-size: 25px;
+    color: rgb(20, 230, 245);
+}
+.text_1{
+    color: rgb(9, 255, 83);
+    padding-top: 25px;
+}
+.three{
+   background-image: url(../img/1626992441_3-kartinkin-com-p-sirenevii-neonovii-fon-krasivo-3.jpg);
+   height: 800px;
+}
+.text_2{
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    padding-top: 25px;
+}
+.eleme{
+    margin: 0 auto;
+    display: block;
+    width: 400px;
+    height: 400px;
+    padding-top: 50px;
+}
+.eleme1{
+    margin: 0 auto;
+    display: block;
+    width: 400px;
+    height: 400px;
+    padding-top: 50px;
+}
+.eleme2{
+    margin: 0 auto;
+    display: block;
+    width: 400px;
+    height: 400px;
+    padding-top: 50px;
+}
+.link{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    padding-top: 30px;
+}
+.link1{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    padding-top: 30px;
+}
+.link2{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    padding-top: 30px;
+}
+.information_btn{
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+    height: 77px;
+    background-color: #c84beb;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #f7f3ea;
+    text-align: center;
+    padding-top: 20px;
+    margin-top: 90px;
+}
+.information_btn:hover{
+    color: white;
+}
